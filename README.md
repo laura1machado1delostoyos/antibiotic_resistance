@@ -4,4 +4,4 @@ I used data from European Centre for Disease Prevention and Control in this proj
 
 I stumbled across some cool findings, especially with prescription attitude sin Greece and Italy. 
 
-Watch my presentation on [YouTube]([https://www.youtube.com/watch?v=GFeN9sYhfqk&ab_channel=DataLauratory](https://youtu.be/DtRoZmospHY)https://youtu.be/DtRoZmospHY) to get all of my insights!
+Watch my presentation on [YouTube](https://youtu.be/DtRoZmospHY) to get all of my insights!
